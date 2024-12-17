@@ -182,8 +182,8 @@ available_setting = {
     "web_port": 9899,
     "model": "coze",
     "coze_api_base": "https://api.coze.cn/open_api/v2",
-    "coze_api_key": "",
-    "coze_bot_id": "",
+    "coze_api_key": "pat_lNQbWqGNoBDne8qplKc9yTPXUjLQO5ln0a2R1QolAzOgpz1jdWm8Cg0zXR1RaXCR",
+    "coze_bot_id": "7449375766309224459",
 }
 
 
