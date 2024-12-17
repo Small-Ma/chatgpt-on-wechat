@@ -180,6 +180,10 @@ available_setting = {
     "Minimax_group_id": "",
     "Minimax_base_url": "",
     "web_port": 9899,
+    "model": "coze",
+    "coze_api_base": "https://api.coze.cn/open_api/v2",
+    "coze_api_key": "",
+    "coze_bot_id": "",
 }
 
 
